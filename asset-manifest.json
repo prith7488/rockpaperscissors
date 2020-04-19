@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rockpaperscissors/static/css/main.d1b05096.chunk.css",
+    "main.js": "/rockpaperscissors/static/js/main.83348b1e.chunk.js",
+    "main.js.map": "/rockpaperscissors/static/js/main.83348b1e.chunk.js.map",
+    "runtime-main.js": "/rockpaperscissors/static/js/runtime-main.8621cb9c.js",
+    "runtime-main.js.map": "/rockpaperscissors/static/js/runtime-main.8621cb9c.js.map",
+    "static/js/2.82c394a7.chunk.js": "/rockpaperscissors/static/js/2.82c394a7.chunk.js",
+    "static/js/2.82c394a7.chunk.js.map": "/rockpaperscissors/static/js/2.82c394a7.chunk.js.map",
+    "index.html": "/rockpaperscissors/index.html",
+    "precache-manifest.5c28c2bcd40cecde7474f495cf91c189.js": "/rockpaperscissors/precache-manifest.5c28c2bcd40cecde7474f495cf91c189.js",
+    "service-worker.js": "/rockpaperscissors/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/rockpaperscissors/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.82c394a7.chunk.js.LICENSE.txt": "/rockpaperscissors/static/js/2.82c394a7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8621cb9c.js",
+    "static/js/2.82c394a7.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.83348b1e.chunk.js"
+  ]
+}
